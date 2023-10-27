@@ -8,7 +8,6 @@
 
 ❗ **Note** : This repo is for my purposes ONLY. I actually wanted make it into an 11ty theme that could be used by others, but the complexity and my free time prevent me from continuing. If you figure out how to use it yourself that's great, otherwise just ask me but I can not promise I'll answer (soon) 🙁. Anyway, if you find something useful for me to improve this theme, just let me know, thanks a lot.
 
-📚 Markdown notes are stored in [a separated repo](https://github.com/dinhanhthi/notes).
 
 ## Useful commands
 
