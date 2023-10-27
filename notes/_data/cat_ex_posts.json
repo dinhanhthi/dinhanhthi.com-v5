@@ -1,0 +1,41 @@
+[
+  {
+    "title": "ML by Andrew",
+    "url": "https://rawnote.dinhanhthi.com/tags#ml-coursera",
+    "tags": ["MOOC", "Machine Learning"],
+    "keywords": "coursera online course machine learning deep learning basic",
+    "date": "2021-01-01"
+  },
+  {
+    "title": "IBM DS Professional Certificate (9 courses)",
+    "url": "https://rawnote.dinhanhthi.com/ibm-data-professional-certificate-1",
+    "tags": ["MOOC"],
+    "keywords": "data science course online coursera",
+    "date": "2021-01-01"
+  },
+  {
+    "title": "Mountain vs Beach Classifier",
+    "url": "https://github.com/dinhanhthi/mountain-vs-beach",
+    "tags": ["Project-based Learning"],
+    "notfull": false,
+    "keywords": "interview classifier binary classification machine learning deep learning CNN image classification web dev places dataset 365 MIT deploy netlify Ideta tensorflow tensorflow.js inception v3 pretrained model transfer learning tfjs converter CORS error",
+    "date": "2021-01-15"
+  },
+  {
+    "title": "Favorite Github repositories",
+    "url": "https://github.com/dinhanhthi?tab=stars",
+    "tags": ["Others", "Collection", "Resources"],
+    "notfull": false,
+    "keywords": "repository github git collection awesome list data science web dev resources machine learning deep learning tensorflow open source",
+    "date": "2021-01-01"
+  },
+  {
+    "title": "PvZ Battle For Neighborville",
+    "url": "https://dinhanhthi.notion.site/PvZ-Battle-For-Neighborville-94e223f0781a4588a8974965faa0732a",
+    "notfull": true,
+    "private": false,
+    "tags": ["Gaming & Puzzles"],
+    "keywords": "gaming relax others switch nintendo pvz plant vs zombie plants vs zombies battle for neighborville fps",
+    "date": "2022-01-01"
+  }
+]

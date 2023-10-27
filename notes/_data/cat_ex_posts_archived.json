@@ -1,0 +1,138 @@
+[
+  {
+    "title": "ML by Andrew",
+    "url": "https://rawnote.dinhanhthi.com/tags#ml-coursera",
+    "tags": ["MOOC", "Machine Learning"],
+    "keywords": "coursera online course machine learning deep learning basic",
+    "date": "2021-01-01"
+  },
+  {
+    "title": "IBM DS Professional Certificate (9 courses)",
+    "url": "https://rawnote.dinhanhthi.com/ibm-data-professional-certificate-1",
+    "tags": ["MOOC"],
+    "keywords": "data science course online coursera",
+    "date": "2021-01-01"
+  },
+  {
+    "title": "DL 4 - CNN",
+    "url": "https://thi-cs.notion.site/DL-4-CNN-by-deeplearning-ai-a8064cf7047b4b07979bcfe5f6801858",
+    "notfull": false,
+    "hide": false,
+    "tags": ["MOOC", "CNN", "Deep Learning", "deeplearning.ai"],
+    "keywords": "Convolutional Neural Network andrew ng deeplearning.ai coursera",
+    "date": "2021-01-01"
+  },
+  {
+    "title": "DL 5 - Sequence models",
+    "url": "https://thi-cs.notion.site/DL-5-Sequence-models-by-deeplearning-ai-7363daca09b6429e94c07e1d86f293f1",
+    "tags": ["MOOC", "Deep Learning", "deeplearning.ai", "RNN", "NLP"],
+    "keywords": "natural language processing coursera",
+    "date": "2021-01-01"
+  },
+  {
+    "title": "NLP by HSE University",
+    "url": "https://thi-cs.notion.site/NLP-by-HSE-7cca9a28cd794b3fb115d4ae461a8245",
+    "tags": ["MOOC", "NLP", "Deep Learning"],
+    "notfull": true,
+    "private": true,
+    "keywords": "coursera natural language processing text classification approaches in NLP linguistic knowledge feature extraction hashing linear model logistic regression sentiment analysis spam filtering docker setting up BOW bag of words language modeling predict tags sequence tagging part of speech named entities semantic slots learning emotion labels word embedding vector vectorize vectorization topic model rule based methods context free grammars CFG Probabilistic modeling and machine learning likelihood maximization, linear classifiers Conditional Random Field (CRF) Deep learning: RNN, CNN,... LSTM traditional NLP state-of-the-art SOTA NLP pyramid Morphology Syntax dependency trees constituency trees Semantics Pragmatics NLTK Stanford parser spaCy Gensim MALLET WordNet hyponym hypernym meronyms BabelNet multilingual DAG-LSTM Text processing Andrey Zimovnov text corpus documents word paragraph Tokenization Tokens WhitespaceTokenizer WordPunctTokenizer TreebankWordTokenizer Token normalization Lemmatization heuristic rules Stemming Porter's stemmer Lemmatization dictionary WordNet lemmatizer Capital letters Acronyms sparse storage TF-IDF Term frequency Inverse document frequency IMDB reviews dataset Linear models Logistic Regression Weights Naive Bayes SVM accuracy recall f1 score hash map n-grams vowpal wabbit personalized tokens",
+    "date": "2021-01-01"
+  },
+  {
+    "title": "Mountain vs Beach Classifier",
+    "url": "https://github.com/dinhanhthi/mountain-vs-beach",
+    "tags": ["Project-based Learning"],
+    "notfull": false,
+    "keywords": "interview classifier binary classification machine learning deep learning CNN image classification web dev places dataset 365 MIT deploy netlify Ideta tensorflow tensorflow.js inception v3 pretrained model transfer learning tfjs converter CORS error",
+    "date": "2021-01-15"
+  },
+  {
+    "title": "Favorite Github repositories",
+    "url": "https://github.com/dinhanhthi?tab=stars",
+    "tags": ["Others", "Collection", "Resources"],
+    "notfull": false,
+    "keywords": "repository github git collection awesome list data science web dev resources machine learning deep learning tensorflow open source",
+    "date": "2021-01-01"
+  },
+  {
+    "title": "Angular 101",
+    "url": "https://thi-cs.notion.site/Angular-101-cb02ba51615249b39dac8898d18bbfb3",
+    "tags": ["Angular"],
+    "notfull": true,
+    "keywords": "angular ng ngx node js 101 directives modules components view theme frameworks frontend front front end 101 fundamental",
+    "private": true,
+    "date": "2022-01-01"
+  },
+  {
+    "title": "JS discrete notes",
+    "url": "https://thi-cs.notion.site/JS-discrete-notes-d40c5d2df14c4ed0a47e20b8a22f0d08",
+    "tags": ["JavaScript"],
+    "notfull": false,
+    "keywords": "callback javascript js 101 basic fundamental angular sync async 101 fundamental contenteditable good practice random colors string replace split caret cursor timing promise.all await decorators ajax getter setter observable",
+    "private": false,
+    "date": "2022-01-01"
+  },
+  {
+    "title": "CSS / SCSS discrete notes",
+    "url": "https://thi-cs.notion.site/CSS-SCSS-discrete-notes-ed7948e232f944bd88fc4274cfadf0a6",
+    "tags": ["Web Dev"],
+    "notfull": 1,
+    "keywords": "for loop in css scss sass tool flat ui color space gradient contrast different compass watch folder convert wordpress fontawesome font awesome css free version 5 CSS Pseudo-elements html character reference  style.css style.css wordpress auto convert watch gulp ruby compass difference px pixel em rem percentage % numberfing heading scss mixin function loop programming with css BEM syntax Block, Element, Modifier alpha color tailwind tailwindcss",
+    "private": false,
+    "date": "2022-01-19"
+  },
+  {
+    "title": "RxJS discrete notes",
+    "url": "https://thi-cs.notion.site/RxJS-discrete-notes-eb08e874b41240a684f570134a7fb0b4",
+    "tags": ["JavaScript"],
+    "notfull": true,
+    "keywords": "rxjs Reactive Extensions for JavaScript async observable stream 101 fundamental",
+    "private": false,
+    "date": "2022-01-01"
+  },
+  {
+    "title": "TypeScript discrete notes",
+    "url": "https://thi-cs.notion.site/TypeScript-discrete-notes-c8dfc88beeeb444b9cadd1218386b649",
+    "tags": ["JavaScript"],
+    "notfull": true,
+    "keywords": "angular typescript ts javascript type superset microsoft 101 fundamental",
+    "private": false,
+    "date": "2022-01-01"
+  },
+  {
+    "title": "Angular Unit Tests",
+    "url": "https://thi-cs.notion.site/Angular-Unit-Testing-a192a786f4004876bdcb1fbc0e99c733",
+    "notfull": true,
+    "private": false,
+    "tags": ["Angular", "Testing"],
+    "keywords": "angular unit test angularjs angular 2 testing",
+    "date": "2022-01-01"
+  },
+  {
+    "title": "Angular discrete note",
+    "url": "https://thi-cs.notion.site/Angular-discrete-notes-e6f59fe5ddbd488b8b8fb0f4ce3d039c",
+    "notfull": false,
+    "private": false,
+    "tags": ["Angular"],
+    "keywords": "angular discrete notes tips 101 combineLatest rxjs OnPush change detection SimpleChanges ViewEncapsulation host css classes contenteditable two-way binding select event ngFor trackBy combineLatest @input SimpleChanges subscribe trigger :host ViewEncapsulation css classes OnPush change detection innerHTML nativeElement reference santize sanitizedHTML",
+    "date": "2022-01-01"
+  },
+  {
+    "title": "PvZ Battle For Neighborville",
+    "url": "https://dinhanhthi.notion.site/PvZ-Battle-For-Neighborville-94e223f0781a4588a8974965faa0732a",
+    "notfull": true,
+    "private": false,
+    "tags": ["Gaming & Puzzles"],
+    "keywords": "gaming relax others switch nintendo pvz plant vs zombie plants vs zombies battle for neighborville fps",
+    "date": "2022-01-01"
+  },
+  {
+    "title": "GCP AIO Notes",
+    "url": "https://thi-cs.notion.site/GCP-AIO-Notes-f417c0cca00f4855b4e9fb2b7a785d90",
+    "notfull": true,
+    "private": false,
+    "tags": ["API & Services"],
+    "keywords": "cli command line interface gcloud google cloud cli apis terminal",
+    "date": "2022-01-01"
+  }
+]

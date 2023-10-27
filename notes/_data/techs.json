@@ -1,0 +1,350 @@
+[
+  {
+    "id": "airflow",
+    "name": "Airflow",
+    "icon": "airflow.svg",
+    "url": "https://airflow.apache.org/"
+  },
+  {
+    "id": "angular",
+    "name": "Angular",
+    "icon": "angular.svg",
+    "url": "/tags/angular/"
+  },
+  {
+    "id": "bash",
+    "name": "GNU Bash",
+    "icon": "bash_.svg",
+    "url": "/tags/shell/"
+  },
+  {
+    "id": "bootstrap",
+    "name": "Bootstrap",
+    "icon": "bootstrap.svg",
+    "url": "https://getbootstrap.com/"
+  },
+  {
+    "id": "chrome-extension",
+    "name": "Chrome Extension API",
+    "icon": "chrome.svg",
+    "url": "https://developer.chrome.com/"
+  },
+  {
+    "id": "detectron2",
+    "name": "Detectron2",
+    "icon": "detectron2.png",
+    "url": "https://github.com/facebookresearch/detectron2"
+  },
+  {
+    "id": "dialogflow",
+    "name": "Dialogflow",
+    "icon": "dialogflow.svg",
+    "url": "/google-dialogflow-api/"
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "icon": "docker.svg",
+    "url": "/tags/docker/"
+  },
+  {
+    "id": "eleventy",
+    "name": "Eleventy",
+    "icon": "11ty.svg",
+    "url": "/11ty-nunjucks/"
+  },
+  {
+    "id": "firebase",
+    "name": "Firebase",
+    "icon": "firebase.svg",
+    "url": "https://firebase.google.com/"
+  },
+  {
+    "id": "foursquare-api",
+    "name": "Foursquare API",
+    "icon": "foursquare.svg",
+    "url": "https://developer.foursquare.com/"
+  },
+  {
+    "id": "freefempp",
+    "name": "FreeFEM++",
+    "icon": "ff.svg",
+    "url": "http://www3.freefem.org/"
+  },
+  {
+    "id": "gatsby",
+    "name": "GatsbyJS",
+    "icon": "gatsby.svg",
+    "url": "/tags/gatsbyjs/"
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "icon": "git.svg",
+    "url": "/git/"
+  },
+  {
+    "id": "gitkraken",
+    "name": "GitKraken",
+    "icon": "gitkraken.svg",
+    "url": "/gitkraken/"
+  },
+  {
+    "id": "gcp",
+    "name": "GCP",
+    "icon": "gcp.svg",
+    "url": "/tags/google/"
+  },
+  {
+    "id": "google-nodejs-api",
+    "name": "Google API",
+    "icon": "google-nodejs-api.svg",
+    "url": "/google-dialogflow-api/"
+  },
+  {
+    "id": "graphql",
+    "name": "GraphQL",
+    "icon": "graphql.svg",
+    "url": "https://graphql.org/"
+  },
+  {
+    "id": "grpc",
+    "name": "gRPC",
+    "icon": "grpc.svg",
+    "url": "https://grpc.io/"
+  },
+  {
+    "id": "heroku",
+    "name": "Heroku",
+    "icon": "heroku.svg",
+    "url": "https://www.heroku.com/"
+  },
+  {
+    "id": "html5",
+    "name": "HTML5",
+    "icon": "html.svg",
+    "url": "https://html.com/html5/"
+  },
+  {
+    "id": "huggingface",
+    "name": "Hugging Face",
+    "icon": "huggingface.svg",
+    "url": "https://huggingface.co/"
+  },
+  {
+    "id": "imgur",
+    "name": "Imgur API",
+    "icon": "imgur.svg",
+    "url": "https://apidocs.imgur.com/"
+  },
+  {
+    "id": "jekyll",
+    "name": "Jekyll",
+    "icon": "jekyll.svg",
+    "url": "/jekyll-tips/"
+  },
+  {
+    "id": "jestjs",
+    "name": "JestJS",
+    "icon": "jestjs.svg",
+    "url": "https://jestjs.io/"
+  },
+  {
+    "id": "js",
+    "name": "JavaScript",
+    "icon": "js.svg",
+    "url": "/tags/javascript/"
+  },
+  {
+    "id": "jupyter",
+    "name": "Jupyter",
+    "icon": "jupyter.svg",
+    "url": "/jupyter-notebook/"
+  },
+  {
+    "id": "latex",
+    "name": "LaTeX",
+    "icon": "latex.svg",
+    "url": "https://www.latex-project.org/"
+  },
+  {
+    "id": "linkedin",
+    "name": "LinkedIn API",
+    "icon": "linkedin.svg",
+    "url": "https://developer.linkedin.com/"
+  },
+  {
+    "id": "linux",
+    "name": "Linux",
+    "icon": "linux_.svg",
+    "url": "/tags/linux/"
+  },
+  {
+    "id": "liquid",
+    "name": "Liquid",
+    "icon": "liquid.svg",
+    "url": "/jekyll-tips/"
+  },
+  {
+    "id": "matlab",
+    "name": "Matlab",
+    "icon": "matlab.svg",
+    "url": "https://www.mathworks.com/discovery/what-is-matlab.html"
+  },
+  {
+    "id": "mongodb",
+    "name": "MongoDB",
+    "icon": "mongodb.svg",
+    "url": "https://www.mongodb.com/"
+  },
+  {
+    "id": "mysql",
+    "name": "MySQL",
+    "icon": "mysql.svg",
+    "url": "https://www.mysql.com/"
+  },
+  {
+    "id": "nestjs",
+    "name": "NestJS",
+    "icon": "nestjs.svg",
+    "url": "https://nestjs.com/"
+  },
+  {
+    "id": "nextjs",
+    "name": "Next.js",
+    "icon": "nextjs.svg",
+    "url": "https://nextjs.org/"
+  },
+  {
+    "id": "nodejs",
+    "name": "NodeJS",
+    "icon": "node.svg",
+    "url": "/nodejs-npm/"
+  },
+  {
+    "id": "notion",
+    "name": "Notion API",
+    "icon": "notion.svg",
+    "url": "https://developers.notion.com/"
+  },
+  {
+    "id": "nunjucks",
+    "name": "Nunjucks",
+    "icon": "nunjucks.svg",
+    "url": "/11ty-nunjucks/"
+  },
+  {
+    "id": "openai",
+    "name": "OpenAI API",
+    "icon": "openai.svg",
+    "url": "https://platform.openai.com/docs/api-reference/"
+  },
+  {
+    "id": "php",
+    "name": "PHP",
+    "icon": "php.svg",
+    "url": "https://www.php.net/"
+  },
+  {
+    "id": "postman",
+    "name": "Postman",
+    "icon": "postman.svg",
+    "url": "https://www.getpostman.com/"
+  },
+  {
+    "id": "python",
+    "name": "Python",
+    "icon": "python.svg",
+    "url": "/tags/python/"
+  },
+  {
+    "id": "pytorch",
+    "name": "PyTorch",
+    "icon": "pytorch.svg",
+    "url": "/pytorch/"
+  },
+  {
+    "id": "r-lang",
+    "name": "R Lang",
+    "icon": "r.svg",
+    "url": "https://www.r-project.org/"
+  },
+  {
+    "id": "react",
+    "name": "React",
+    "icon": "react.svg",
+    "url": "https://reactjs.org/"
+  },
+  {
+    "id": "ruby",
+    "name": "Ruby",
+    "icon": "ruby.svg",
+    "url": "https://www.ruby-lang.org/"
+  },
+  {
+    "id": "rxjs",
+    "name": "RxJS",
+    "icon": "rxjs.svg",
+    "url": "https://rxjs.dev/"
+  },
+  {
+    "id": "scikit-learn",
+    "name": "Scikit-learn",
+    "icon": "scikit-learn.svg",
+    "url": "https://scikit-learn.org/"
+  },
+  {
+    "id": "scss",
+    "name": "SCSS",
+    "icon": "sass.svg",
+    "url": "/css-tips/"
+  },
+  {
+    "id": "sphinx",
+    "name": "Sphinx Doc",
+    "icon": "sphinx.svg",
+    "url": "/sphinx-restructuredtext/"
+  },
+  {
+    "id": "tensorflow",
+    "name": "TensorFlow",
+    "icon": "tf.svg",
+    "url": "/tags/tensorflow/"
+  },
+  {
+    "id": "ts",
+    "name": "TypeScript",
+    "icon": "ts.svg",
+    "url": "https://www.typescriptlang.org/"
+  },
+  {
+    "id": "tailwindcss",
+    "name": "Tailwind",
+    "icon": "tailwindcss.svg",
+    "url": "https://tailwindcss.com/"
+  },
+  {
+    "id": "vertex-ai",
+    "name": "Vertex AI",
+    "icon": "vertex.png",
+    "url": "/google-vertex-ai/"
+  },
+  {
+    "id": "vite",
+    "name": "Vite",
+    "icon": "vite.svg",
+    "url": "https://vitejs.dev/"
+  },
+  {
+    "id": "vscode",
+    "name": "VS Code",
+    "icon": "vscode.svg",
+    "url": "/visual-studio-code/"
+  },
+  {
+    "id": "wordpress",
+    "name": "Wordpress",
+    "icon": "wordpress.svg",
+    "url": "/tags/wordpress/"
+  }
+]

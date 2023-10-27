@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Experiences",
+    "list": [
+      {
+        "where": "Ideta",
+        "bgwhite": false,
+        "logo": "ideta-single.png",
+        "url": "https://www.ideta.io",
+        "title": "Data Scientist & Fullstack Developer",
+        "date": "2021 — ongoing",
+        "activity": [
+          "Ideta is a solution that allows companies to very easily create conversational assistants for many communication channels like Messenger, SMS, Slack, Wechat, Skype Business, ... but also for voice like Google Home. The solution makes the creation of chatbots accessible to everyone.",
+          "My job is to understand how things work both on the backend and on the frontend, and then integrate some Natural Language Processing services into the main platform."
+        ],
+        "tech": [
+          "angular",
+          "bash",
+          "chrome-extension",
+          "detectron2",
+          "dialogflow",
+          "docker",
+          "firebase",
+          "gcp",
+          "git",
+          "gitkraken",
+          "google-nodejs-api",
+          "js",
+          "jestjs",
+          "jupyter",
+          "linkedin",
+          "linux",
+          "mongodb",
+          "nestjs",
+          "nodejs",
+          "openai",
+          "postman",
+          "python",
+          "pytorch",
+          "rxjs",
+          "scikit-learn",
+          "tensorflow",
+          "ts",
+          "vertex-ai",
+          "vite"
+        ]
+      },
+      {
+        "where": "Dataswati",
+        "logo": "dataswati.png",
+        "url": "https://www.dataswati.com/",
+        "title": "Data Scientist",
+        "date": "2020",
+        "activity": [
+          "Dataswati is a company that uses artificial intelligence technologies to optimize industrial processes.",
+          "I was one of the main people responsible for maintaining POPAI, Dataswati's AI library. I worked on 4 main projects/customers with different subjects in Machine Learning and Data Science."
+        ],
+        "tech": [
+          "airflow",
+          "docker",
+          "bash",
+          "git",
+          "gitkraken",
+          "grpc",
+          "jupyter",
+          "linux",
+          "mongodb",
+          "mysql",
+          "pytorch",
+          "python",
+          "r-lang",
+          "scikit-learn",
+          "sphinx",
+          "tensorflow"
+        ]
+      },
+      {
+        "where": "Math2IT",
+        "logo": "math2it.png",
+        "url": "https://math2it.com",
+        "title": "Founder & Fullstack Developer & Writer",
+        "date": "2013 — current",
+        "activity": [
+          "Math2IT is a Vietnamese math, education, and technology community. We write about intuitive math and technology that help Vietnamese learn these subjects easily.",
+          "I write about math and technology in an intuitive way. I am also an administrator of <a href='https://www.facebook.com/groups/math2it' target='_blank'>a community</a> about mathematics and technology on Facebook."
+        ],
+        "tech": [
+          "bootstrap",
+          "docker",
+          "eleventy",
+          "gatsby",
+          "git",
+          "gitkraken",
+          "graphql",
+          "html5",
+          "imgur",
+          "js",
+          "jekyll",
+          "linux",
+          "mysql",
+          "notion",
+          "php",
+          "react",
+          "ruby",
+          "scss",
+          "wordpress"
+        ]
+      },
+      {
+        "where": "U. Sorbonne Paris Nord",
+        "logo": "p13.png",
+        "bgwhite": true,
+        "url": "https://www.math.univ-paris13.fr/laga/index.php/en/",
+        "title": "Researcher in Applied Maths & Coder",
+        "date": "2013 — 2018",
+        "activity": [
+          "I have studied the growth of biofilms using the Finite Element Method, a numerical method of analysis. The title of <a href='https://www.theses.fr/2018USPCD083' target='_blank'>the dissertation</a> is \"<i>Finite Element Methods for Nonlinear Interface Problems. Application to a bioﬁlmic growth model</i>\". For the implementation I used FreeFem++ and a self-made NXFEM toolbox written in Matlab."
+        ],
+        "tech": ["freefempp", "bash", "git", "linux", "matlab", "python"]
+      }
+    ]
+  },
+  {
+    "name": "Education",
+    "list": [
+      {
+        "where": "Self-learning",
+        "logo": "self-learn.webp",
+        "title": "Data Science",
+        "date": "2019 — current",
+        "activity": [
+          "I've been learning myself Data Science using online courses (Coursera, deeplearning.ai, Dataquest, Fastai, Oxford) and real projects."
+        ]
+      },
+      {
+        "where": "Self-learning",
+        "logo": "self-learn.webp",
+        "title": "Web Development",
+        "date": "2013 — current",
+        "activity": [
+          "I've been learning myself Web Development by making applications, websites and real projects."
+        ]
+      },
+      {
+        "where": "Self-learning",
+        "logo": "self-learn.webp",
+        "title": "Computer Science",
+        "date": "2008 — current",
+        "activity": [
+          "I've been learning myself CS by watching online video courses, reading books, and practicing programming on sites like Hackerrank."
+        ]
+      },
+      {
+        "where": "U. Sorbonne Paris Nord",
+        "logo": "p13.png",
+        "bgwhite": true,
+        "url": "https://www.math.univ-paris13.fr/laga/index.php/en/",
+        "title": "Doctor in Applied Maths",
+        "date": "2013 — 2018",
+        "activity": [
+          "I have studied the growth of biofilms using the Finite Element Method, a numerical method of analysis. The title of <a href='https://www.theses.fr/2018USPCD083' target='_blank'>the dissertation</a> is \"<i>Finite Element Methods for Nonlinear Interface Problems. Application to a bioﬁlmic growth model</i>\". For the implementation I used FreeFem++ and a self-made NXFEM toolbox written in Matlab."
+        ]
+      },
+      {
+        "where": "U. of Tours",
+        "logo": "tours.png",
+        "bgwhite": true,
+        "url": "https://www.univ-tours.fr/",
+        "title": "Master in Applied Maths",
+        "date": "2012 — 2013",
+        "activity": [
+          "My Master's degree was registered at this university, but I spent most of my time studying in Vietnam and completing an internship at Paris 13 University."
+        ]
+      },
+      {
+        "where": "Ho Chi Minh City Pedagogical U.",
+        "logo": "dhsp.png",
+        "url": "https://hcmue.edu.vn/en/",
+        "title": "Bachelor in Pedagogy & Maths",
+        "date": "2008 — 2012",
+        "activity": [
+          "I was taught to become a math teacher. I studied a lot in mathematics and teaching methods."
+        ]
+      }
+    ]
+  }
+]

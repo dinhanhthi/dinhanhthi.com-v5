@@ -1,7 +1,6 @@
 _site/
 _live/
 _built/
-notes/
 node_modules/
 .DS_Store
 src/js/min.js

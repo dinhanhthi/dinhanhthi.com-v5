@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Languages",
+    "list": ["freefempp", "js", "matlab", "php", "python", "ts"]
+  },
+  {
+    "name": "AI & Data",
+    "list": [
+      "airflow",
+      "detectron2",
+      "dialogflow",
+      "huggingface",
+      "jupyter",
+      "openai",
+      "pytorch",
+      "scikit-learn",
+      "tensorflow",
+      "vertex-ai"
+    ]
+  },
+  {
+    "name": "Frontend",
+    "list": [
+      "angular",
+      "bootstrap",
+      "eleventy",
+      "gatsby",
+      "html5",
+      "jekyll",
+      "liquid",
+      "nextjs",
+      "nunjucks",
+      "react",
+      "rxjs",
+      "scss",
+      "tailwindcss",
+      "vite",
+      "wordpress"
+    ]
+  },
+  {
+    "name": "Backend",
+    "list": [
+      "airflow",
+      "docker",
+      "firebase",
+      "graphql",
+      "grpc",
+      "google-nodejs-api",
+      "jestjs",
+      "mongodb",
+      "mysql",
+      "nestjs",
+      "nodejs",
+      "vertex-ai"
+    ]
+  },
+  {
+    "name": "Tools & Services",
+    "list": [
+      "bash",
+      "chrome-extension",
+      "dialogflow",
+      "imgur",
+      "gcp",
+      "git",
+      "gitkraken",
+      "huggingface",
+      "latex",
+      "linkedin",
+      "linux",
+      "notion",
+      "openai",
+      "postman",
+      "sphinx",
+      "vscode"
+    ]
+  }
+]
